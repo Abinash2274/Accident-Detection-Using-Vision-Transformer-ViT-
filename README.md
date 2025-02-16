@@ -1,1 +1,2 @@
 # Accident-Detection-Using-Vision-Transformer-ViT-
+This repository implements a Vision Transformer (ViT) model for classifying accident and non-accident frames from CCTV footage. It utilizes PyTorch and Torchvision's ViT-B_16 pretrained on ImageNet. The model is fine-tuned with enhanced data augmentation techniques to improve generalization. It includes early stopping, learning rate scheduling, and mixed precision training for optimized performance on GPUs. Performance is evaluated using classification reports and confusion matrices.
