@@ -12,7 +12,7 @@ This dataset is designed for **binary image classification** to detect road acci
 ## 📊 Dataset Distribution
 
 | Category       | Train | Validation | Test | Total |
-|---------------|------:|-----------:|-----:|------:|
+|----------------|------:|-----------:|-----:|------:|
 | Accident       | 369   | 46         | 47   | 462   |
 | Non-Accident   | 422   | 52         | 54   | 528   |
 | **Total**      | 791   | 98         | 101  | 990   |
