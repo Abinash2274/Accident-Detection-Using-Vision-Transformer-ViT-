@@ -1,0 +1,22 @@
+# 📂 Dataset Documentation: Accident Detection from CCTV Footage
+
+## 📌 Overview
+This dataset is designed for **binary image classification** to detect road accidents from CCTV footage.
+
+- **Task Type:** Image Classification  
+- **Classes:** 2 (Accident, Non-Accident)  
+- **Domain:** Computer Vision / Intelligent Transportation Systems  
+
+---
+
+## 📊 Dataset Distribution
+
+| Category       | Train | Validation | Test | Total |
+|---------------|------:|-----------:|-----:|------:|
+| Accident       | 369   | 46         | 47   | 462   |
+| Non-Accident   | 422   | 52         | 54   | 528   |
+| **Total**      | 791   | 98         | 101  | 990   |
+
+---
+
+## 🗂️ Directory Structure
